@@ -19,26 +19,26 @@ of the implementation and its impact on website performance analysis.
 
 ## Commands Used
 Below is the list of commands used during the project:
-  493  tar -czvf logs_backup.tar.gz logs/
-  494  ls
-  495  rmdir logs_backup.tar.gz
-  496  rm logs_backup.tar.gz
-  497  ls
-  498  tar -czvf logs_backup.tar.gz log_{1..100}.txt/
-  499  ls
-  500  nano logs_backup.tar.gz
-  501  clear
-  502  tar -tzvf logs_backup.tar.gz
-  503  clear
-  504  history
-  505  history > project_commands.txt
-  506  nano ryan_rishabh_project.md
-  507  ls
-  508  nano project_commands.txt
-  509  cat project_commands.txt >> ryan_rishabh_project.md
-  510  nano ryan_rishabh_project.txt
-  511  nano project_commands.txt
-  512  history | tail -20 > project_commands.txt
+ - 493  tar -czvf logs_backup.tar.gz logs/
+ - 494  ls
+ - 495  rmdir logs_backup.tar.gz
+ - 496  rm logs_backup.tar.gz
+ - 497  ls
+ - 498  tar -czvf logs_backup.tar.gz log_{1..100}.txt/
+ - 499  ls
+ - 500  nano logs_backup.tar.gz
+ - 501  clear
+ - 502  tar -tzvf logs_backup.tar.gz
+ - 503  clear
+ - 504  history
+ - 505  history > project_commands.txt
+ - 506  nano ryan_rishabh_project.md
+ - 507  ls
+ - 508  nano project_commands.txt
+ - 509  cat project_commands.txt >> ryan_rishabh_project.md
+ - 510  nano ryan_rishabh_project.txt
+ - 511  nano project_commands.txt
+ - 512  history | tail -20 > project_commands.txt
 
 
 ## Summary
